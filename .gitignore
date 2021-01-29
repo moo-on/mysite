@@ -1,0 +1,9 @@
+.idea/
+db.sqlite3
+
+<MY-PROJECT-DIRECTORY>
+#temporary
+*.log
+*.pot
+*.pyc
+__pycache__/
