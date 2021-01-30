@@ -1,7 +1,7 @@
 .idea/
 db.sqlite3
+local_setting.py
 
-<MY-PROJECT-DIRECTORY>
 #temporary
 *.log
 *.pot
