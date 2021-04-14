@@ -1,5 +1,8 @@
 .idea/
+
+config/settings.py
 db.sqlite3
+
 local_setting.py
 <MY-PROJECT-DIRECTORY>/settings.py
 
