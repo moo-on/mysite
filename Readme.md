@@ -24,5 +24,5 @@ aws console -> MobaXterm
 screen server -> Nginx server
 
 🎊site url:  
-https://15.165.119.129:8000
+https://devjfirstblogproject.ga
 
