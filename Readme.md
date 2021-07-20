@@ -26,7 +26,7 @@ sqlite -> postgresql
 
 🎊site url:  
 try:  
-http://devjfirstblogproject.ga/  
+  http://devjfirstblogproject.ga/  
 except:  
-http://15.165.119.129:8000/
+  http://15.165.119.129:8000/
 
