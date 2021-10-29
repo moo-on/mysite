@@ -26,7 +26,7 @@ aws console -> MobaXterm
 screen server -> Nginx server  
 sqlite -> postgresql
 
-🎊site url:  server off...
+🎊site url:  server off...  
 try:  
 &nbsp; &nbsp; http://devjfirstblogproject.ga/  
 except:  
